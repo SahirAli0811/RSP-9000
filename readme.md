@@ -36,7 +36,9 @@
 
 <p>I have made custom CAD design for the hand with CAD's of Fingers, Palm, Thumb Joint, Wrist, Forearm, Servo Holder and Servo horn </p>
 
-<p>Here are the images 
+<p>Here are the images </p>
+
+---
 
 <img src="Images/fingers.png" alt="Fingers" width="200" height="200">
 <img src="Images/palm.png" alt="Palm" width="200" height="200">
